@@ -1,0 +1,4 @@
+name = Bootstrap subtheme
+description = A Sub-theme based on bootstrap created by Raza
+core = 7.x
+base theme = bootstrap
